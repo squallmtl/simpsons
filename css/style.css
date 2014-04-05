@@ -1,0 +1,8 @@
+#dashboard{
+	width: 500px;
+	height: 500px;
+	margin-top: 10px;
+}
+.panel-body{
+	height: 300px;
+}
